@@ -296,8 +296,8 @@ User Question + Context → ai_agent.py → AI Response
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-data-analyst.git
-cd ai-data-analyst
+git clone https://github.com/Raymond-33/Data_Analyst_agent.git
+cd Data_Analyst_agent
 ```
 
 ### 2. Install Dependencies
